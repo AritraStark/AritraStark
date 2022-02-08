@@ -12,10 +12,11 @@
   - Data Structures and Algorithms
   - DevOps
   - Systems Design
+  - Deep Learning and AI
 
 ## 👯 I’m looking to collaborate on :
   - Full Stack Projects
-  - Developing any ideas from scratch
+  - Deep Learning and Computer Vision Projects
   - Designing systems and data architechture
 
 ## 📫 Languages and Tools :
